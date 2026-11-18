@@ -1,0 +1,6 @@
+{
+  "name": "BRUCENSENGIYUMVA AI",
+  "description": "Advanced educational AI personal teacher, adaptive mathematics and science studio, and academic research companion developed by BRUCE DIGITAL 360.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
